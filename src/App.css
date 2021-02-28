@@ -35,7 +35,7 @@ body {
 
 .heading {
   display: flex;
-  font-size: 2em;
+  font-size: 1em;
   align-items: center;
   height: 582px;
   font-family: "Spartan", sans-serif;
